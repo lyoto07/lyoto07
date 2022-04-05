@@ -5,5 +5,7 @@
 - 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 guilherme-lira@outlook.com.br | https://www.linkedin.com/in/guilherme-serafim/
+- 
 
-<p align="center"> ![Alt Text](https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-22.gif) </p>
+
+<img align="center" src="![Alt Text](https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-22.gif) " alt="..."> 
