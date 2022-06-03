@@ -1,4 +1,4 @@
-- 👋 Oi meu nome é Guilherme Serafim, Sou estudando de Análise e desenvolvimento de sistemas e sou apaixonado por técnologia.
+- 👋 Oi meu nome é Guilherme Serafim, Sou estudante de Análise e desenvolvimento de sistemas e sou apaixonado por técnologia.
 - 🌱 Atualmente estou estudando JavaScript e procurando uma oportunidade de ingressar na área de desenolvimento web.
 - :open_book: Possuo conhecimentos básicos em: JavaScript, HTML, CSS, Java, Git e banco de dados
 
