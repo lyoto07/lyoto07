@@ -1,6 +1,6 @@
 - 👋 Oi meu nome é Guilherme Serafim, Sou estudante de Análise e desenvolvimento de sistemas e sou apaixonado por técnologia.
 - 🌱 Atualmente estou estudando JavaScript e procurando uma oportunidade de ingressar na área de desenolvimento web.
-- :open_book: Possuo conhecimentos básicos em: JavaScript, HTML, CSS, Java, Git e banco de dados
+- :open_book: Possuo conhecimentos em: JavaScript, HTML, CSS, Java,PHP, Git e banco de dados
 
 - 📫 guilherme-lira@outlook.com.br | https://www.linkedin.com/in/guilherme-serafim/
 
