@@ -1,8 +1,22 @@
-- 👋 Oi meu nome é Guilherme Serafim, Sou estudante de Análise e desenvolvimento de sistemas e sou apaixonado por técnologia.
-- 🌱 Atualmente estou estudando JavaScript e procurando uma oportunidade de ingressar na área de desenolvimento web.
-- :open_book: Possuo conhecimentos em: JavaScript, HTML, CSS, Java,PHP, Git e banco de dados
+<div align='center'>
+  
+👋 Oi meu nome é Guilherme 
+  
+Sou formado em Análise e desenvolvimento de sistemas 
+  
+Atualemnte estudo JavaScript e estou em busca do meu primeiro emprego como desenvolvedor
 
-- 📫 guilherme-lira@outlook.com.br | https://www.linkedin.com/in/guilherme-serafim/
 
 
 ![Alt Text](https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-22.gif)
+
+  
+ Possuo conhecimentos em: 
+  
+  HTML, CSS, JavaScript, Java, PHP, Git e banco de dados
+
+
+[![Linkedin: guilherme](https://img.shields.io/badge/-guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-serafim/)](https://www.linkedin.com/in/guilherme-serafim/)  [![Outlook](https://img.shields.io/twitter/url?label=email&logo=microsoft-outlook&style=social&url=http%3A%2F%2Fmailto%3Aguilherme-lira%40outlook.com.br)](mailto:guilherme-lira@outlook.com.br)
+
+</div>
+  
