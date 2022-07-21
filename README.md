@@ -4,5 +4,5 @@
 
 - 📫 guilherme-lira@outlook.com.br | https://www.linkedin.com/in/guilherme-serafim/
 
-<div style="text-align:center"><img src="![Alt Text](https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-22.gif)" /></div>
+
 ![Alt Text](https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-22.gif)
