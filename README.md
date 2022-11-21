@@ -14,7 +14,7 @@
 
   
  Possuo conhecimentos em:   
-  HTML, CSS, JavaScript, Java, PHP, Git e banco de dados
+  HTML, CSS, JavaScript, Vue, Jquery, Java, PHP, Git e MySQL
 
 
 [![Linkedin: guilherme](https://img.shields.io/badge/-guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-serafim/)](https://www.linkedin.com/in/guilherme-serafim/)  [![Outlook](https://img.shields.io/twitter/url?label=email&logo=microsoft-outlook&style=social&url=http%3A%2F%2Fmailto%3Aguilherme-lira%40outlook.com.br)](mailto:guilherme-lira@outlook.com.br)
