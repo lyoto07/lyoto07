@@ -6,9 +6,9 @@
   
 :school: Sou formado em Análise e desenvolvimento de sistemas.
   
-:books: Atualmente estudo JavaScript
+:books: Atualmente estudo JavaScript (vue.js)
 
-:technologist: Estou em busca do meu primeiro emprego como desenvolvedor
+:technologist: Estou em busca de uma oportunidade para trabalhar como desenvolvedor
  ##
 ![Alt Text](https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-22.gif)
 
