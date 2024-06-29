@@ -6,7 +6,7 @@
   
 :school: Sou formado em Análise e desenvolvimento de sistemas.
   
-:books: Atualmente estudo JavaScript (vue.js)
+:books: Atualmente estudo React
 
 :technologist: Estou em busca de uma oportunidade para trabalhar como desenvolvedor
  ##
