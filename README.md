@@ -10,7 +10,7 @@
 
 :technologist: Estou em busca de uma oportunidade para trabalhar como desenvolvedor
  ##
-![Alt Text](https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-22.gif)
+![Alt Text](https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif)
 
   
  Possuo conhecimentos em:   
